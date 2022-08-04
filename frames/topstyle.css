@@ -1,0 +1,64 @@
+.home{
+	position: absolute;
+	padding: 8px;
+	font-family: sans-serif;
+	font-weight: lighter;
+	color: white;
+	font-size: 17px;
+	top: 35%;
+	left: 35.6%;
+	z-index: 1;
+	cursor: pointer;
+	background: #045256;
+	box-shadow: 0px 0px 15px 0px rgba(0, 0, 0,0.6);
+	border-radius: 2px 20px 2px;
+	border: none;
+}
+.login{
+	padding: 8.5px;
+	position: absolute;
+	font-family: arial;
+	font-weight: lighter;
+	color: white;
+	font-size: 18px;
+	top: 35%;
+	left: 50.5%;
+	z-index: 1;
+	cursor: pointer;
+	background: #045256;
+	box-shadow: 0px 0px 15px 0px rgba(0, 0, 0,0.6);
+	border-radius: 2px 20px 2px;
+	border: none;
+}
+.reg{
+	position: absolute;
+	padding: 8.2px;
+	font-family: arial;
+	font-weight: lighter;
+	color: white;
+	font-size: 18px;
+	top: 35%;
+	right: 23.5%;
+	z-index: 1;
+	cursor: pointer;
+	background: #045256;
+	box-shadow: 0px 0px 15px 0px rgba(0, 0, 0,0.6);
+	border-radius: 2px 20px 2px;
+	border: none;
+}
+.profile{
+	position: absolute;
+	padding: 8px;
+	font-family: arial;
+	font-weight: lighter;
+	color: white;
+	font-size: 18px;
+	top: 35%;
+	right: 7.5%;
+	z-index: 1;
+	cursor: pointer;
+	background: #045256;
+	box-shadow: 0px 0px 15px 0px rgba(0, 0, 0,0.6);
+	border-radius: 2px 20px 2px;
+	border: none;
+}

@@ -1,0 +1,346 @@
+.bg{
+   height: 150%;
+   width: 99.4%;
+   background-image: url(back.jpg);
+   background-size: cover;
+}
+.caption{
+   font-size: 15px;
+   font-weight: bolder; 
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana,sans-serif;
+}
+.caption3{
+   font-size: 17px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.name{
+   position: absolute;
+   top: 200px;
+   left: 5%;
+}
+.id{
+   position: absolute;
+   top: 260px;
+   left: 5%;
+}
+.branch{
+   position: absolute;
+   top: 320px;
+   left: 5%;
+}
+.b1{
+   position: absolute;
+   top: 317px;
+   left: 21.5%;
+}
+.b2{
+   position: absolute;
+   top: 317px;
+   left: 28.7%;
+}
+.b3{
+   position: absolute;
+   top: 317px;
+   left: 36.7%;
+}
+.b4{
+   position: absolute;
+   top: 316.9px;
+   left: 44.8%;
+}
+.class{
+   position: absolute;
+   top: 380px;
+   left: 5%;
+}
+.mobile{
+   position: absolute;
+   top: 500px;
+   left: 5%;
+}
+.gender{
+   position: absolute;
+   top:440px;
+   left: 5%;
+}
+.email{
+   position: absolute;
+   top:560px;
+   left: 5%;
+}
+.d{
+   position: absolute;
+   top:620px;
+   left: 5%;
+}
+.add{
+   position: absolute;
+   top: 670;
+   left: 5%;
+}
+.hh {
+   background: linear-gradient(90deg,#ff03ee,#03e3fc);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   position: absolute;
+   top: 7%;
+   left: 36%;
+   border-bottom: 3px solid white;
+}
+.nm{
+   position: absolute;
+   top: 28%;
+   left: 20%;
+   background:none;
+   border: none;
+   outline: none;
+   color: white;
+   border-bottom: 2px solid yellow;
+   border-bottom-color: linear-gradient(90deg,#ff03ee,#03e3fc);
+}
+.nm1{
+   position: absolute;
+   top: 28%;
+   left: 37%;
+   background:none;
+   border: none;
+   outline: none;
+   color: white;
+   border-bottom: 2px solid yellow;
+}
+.dob{
+   position: absolute;
+   top: 37%;
+   left: 20%;
+   background:none;
+   border: none;
+   outline: none;
+   color: white;
+   border-bottom: 2px solid yellow;
+}
+.c1{
+   position: absolute;
+   top: 46%;
+   left: 19.7%;
+}
+.c2{
+   position: absolute;
+   top: 46%;
+   left: 27%;
+}
+.c3{
+   position: absolute;
+   top: 46%;
+   left: 35%;
+}
+.c4{
+   position: absolute;
+   top: 46%;
+   left: 43%;
+}
+.address{
+   position: absolute;
+   top: 97%;
+   left: 20%;
+   font-size: 15px;
+   font-family:sans-serif;
+   background: none;
+   border: 2px solid yellow;
+   color: white;
+}
+.cl{
+   position: absolute;
+   top: 290px;
+   left: 5%;
+}
+
+.branchop1{
+   position: absolute;
+   top: 46.3%;
+   left: 19.5%;
+}
+.branchop2{
+   position: absolute;
+   top: 46.3%;
+   left: 26.5%;
+}
+.branchop3{
+   position: absolute;
+   top: 46.3%;
+   left: 33.5%;
+}
+.branchop4{
+   position: absolute;
+   top: 46.3%;
+   left: 40.5%;
+}
+.cse{
+   position: absolute;
+   top: 46.2%;
+   left: 21.1%;
+   font-family: sans-serif;
+   font-size: 19px;
+}
+.ece{
+   position: absolute;
+   top: 46.2%;
+   left: 28.1%;
+   font-family: sans-serif;
+   font-size: 19px;
+}
+.civil{
+   position: absolute;
+   top: 46.2%;
+   left: 35.1%;
+   font-family: sans-serif;
+   font-size: 19px;
+}
+.mech{
+   position: absolute;
+   top: 46.2%;
+   left: 42.2%;
+   font-family: sans-serif;
+   font-size: 19px;
+}
+.cls{
+   position: absolute;
+   top: 54.5%;
+   left:20%;
+   color:yellow;
+   background: black;
+}
+
+.maleop{
+   position: absolute;
+   top: 63.2%;
+   left: 19.5%;
+}
+.femaleop{
+   position: absolute;
+   top: 63.2%;
+   left: 26.5%;
+}
+.otherop{
+   position: absolute;
+   top: 63.2%;
+   left: 35.5%;
+}
+.male{
+   position: absolute;
+   top: 63%;
+   left: 21.1%;
+   font-family: sans-serif;
+   font-size: 19px;
+}
+.female{
+   position: absolute;
+   top: 63%;
+   left: 28.1%;
+   font-family: sans-serif;
+   font-size: 19px;
+}
+.other{
+   position: absolute;
+   top: 63%;
+   left: 37.2%;
+   font-family: sans-serif;
+   font-size: 19px;
+}
+
+.ph{
+   position: absolute;
+   font-size: 15px;
+   top: 71.6%;
+   left: 20%;
+   background:none;
+   border: none;
+   outline: none;
+   color: white;
+   border-bottom: 2px solid yellow;
+}
+.em{
+   position: absolute;
+   font-size: 15px;
+   top: 80.5%;
+   left: 20%;
+   background:none;
+   border: none;
+   outline: none;
+   color: white;
+   border-bottom: 2px solid yellow;
+}
+
+
+.date{
+   position: absolute;
+   top: 89%;
+   left: 20%;
+   color: yellow;
+   background: black;
+}
+
+.month{
+   position: absolute;
+   top: 89%;
+   left: 25.4%;
+   color: yellow;
+   background: black;
+}
+
+.year{
+   position: absolute;
+   top: 89%;
+   left: 33%;
+   color: yellow;
+   background: black;
+}
+
+.reset{
+   position: absolute;
+   top: 134%;
+   left: 35%;
+   width: 15%;
+   color: ghostwhite;
+   font-size: 23px;
+   font-weight: lighter;
+   background: linear-gradient(90deg,#ff03ee,#03e3fc);
+   border: none;
+   outline: none;
+   border: 2px solid white;
+   cursor: pointer;
+   border-radius: 20px;
+   padding: 7px;
+
+}
+.submit{
+   position: absolute;
+   top: 134%;
+   left: 51%;
+   width: 15%;
+   font-weight: lighter;
+   color: ghostwhite;
+   font-size: 23px;
+   border-radius: 20px;
+   background: linear-gradient(90deg,#ff03ee,#03e3fc);
+   outline: none;
+   border: 2px solid white;
+   cursor: pointer;
+   padding: 7px;
+}
+.tq{
+   left: 200%;
+   font-size: 200%;
+   font-family: sans-serif;
+   left: 100%; 
+}
+
+.glass{
+   top: 5.5%;
+   left: 34.5%;
+   height: 90px;
+   width: 470px;
+   position: absolute;
+   background: transparent;
+   box-shadow: 0px 0px 30px 5px black;
+   backdrop-filter: blur(10px);
+}
